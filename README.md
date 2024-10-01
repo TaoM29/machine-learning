@@ -14,6 +14,6 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
 - **Folder:** [water](water/)
 - **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
 - **Files Included:**
-  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the CNN implementation.
-  - `water_template.py`: Python script for running the ML model in a standalone environment.
+  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
+  - `water_template.py`: Python script for running the random forest model in a standalone environment.
 
