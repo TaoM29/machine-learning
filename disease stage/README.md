@@ -1,2 +1,2 @@
 # Disease stage 
-This folder contains disease stages prediction
+This folder contains liver disease stages prediction
