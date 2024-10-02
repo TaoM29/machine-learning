@@ -3,7 +3,7 @@ Welcome to the Machine Learning Repository, which contains various resources for
 
 
 ## Overview
-**This repository contains a collection of deep learning templates organized into three main categories:**
+**This repository contains a collection of machine learning templates organized into three main categories:**
 - **Liver Disease Stage Prediction**
 - **Scoville Chili Analysis**
 - **Water Drinkability Prediction**
