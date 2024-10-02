@@ -30,10 +30,14 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
  
 ### 3. Disease Stage (Disease Stage Prediction)
 - **Folder:** [disease stage](disease%20stage/)
-- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
+- **Description:** This project provides a  template for analyzing disease stages using machine learning techniques. It includes data preprocessing, feature selection, and model training using classifiers like Random Forest, Logistic Regression, and SVM. The notebook is designed for researchers and data scientists working with medical datasets to classify disease stages efficiently.
 - **Files Included:**
   - `disease_stage_template.ipynb`: Interactive Jupyter Notebook for exploring the model training implementation.
   - `disease_stage_template.py`: Python script for running the models in a standalone environment.
   - `train.csv`: CSV file for the training data.
-  - `test.csv` CSV file for the testing data. 
+  - `test.csv` CSV file for the testing data.
+
+
+
+
 
