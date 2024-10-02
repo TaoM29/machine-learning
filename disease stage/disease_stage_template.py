@@ -44,7 +44,7 @@ plt.show()
 print(train['Stage'].value_counts())
 
 
-# One Hot encoding manually in python to showcase the understanding
+# One Hot encoding manually in python to showcase the understanding of the vectorization
 
 # Convert binary variables to numerical values
 binary_vars = ["Ascites", "Hepatomegaly", "Spiders", "Edema"]
