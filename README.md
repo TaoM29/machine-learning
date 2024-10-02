@@ -10,10 +10,30 @@ Welcome to the Machine Learning Repository, which contains various resources for
 
 Each category includes Jupyter Notebooks and Python scripts designed for easy experimentation and application.
 
-### 1. CNN (Convolutional Neural Network)
+### 1. Water (Water Drinkability Prediction)
 - **Folder:** [water](water/)
 - **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
 - **Files Included:**
   - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
   - `water_template.py`: Python script for running the random forest model in a standalone environment.
+  - `train.csv`: CSV file for the training data.
+  - `test.csv` CSV file for the testing data.
+
+### 2. scoville analysis (Scoville Chili Analysis)
+- **Folder:** [scoville analysis](scoville-analysis/)
+- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
+- **Files Included:**
+  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
+  - `water_template.py`: Python script for running the random forest model in a standalone environment.
+  - `train.csv`: CSV file for the training data.
+  - `test.csv` CSV file for the testing data.
+ 
+### 3. water (Water Drinkability Prediction)
+- **Folder:** [water](water/)
+- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
+- **Files Included:**
+  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
+  - `water_template.py`: Python script for running the random forest model in a standalone environment.
+  - `train.csv`: CSV file for the training data.
+  - `test.csv` CSV file for the testing data. 
 
