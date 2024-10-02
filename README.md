@@ -12,16 +12,16 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
 
 ### 1. Water (Water Drinkability Prediction)
 - **Folder:** [water](water/)
-- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
+- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 - **Files Included:**
-  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
-  - `water_template.py`: Python script for running the random forest model in a standalone environment.
+  - `water_template.ipynb`: Interactive Jupyter Notebook for exploring the model training implementation.
+  - `water_template.py`: Python script for running the models in a standalone environment.
   - `train.csv`: CSV file for the training data.
   - `test.csv` CSV file for the testing data.
 
 ### 2. Scoville Analysis (Scoville Chili Analysis)
 - **Folder:** [scoville analysis](scoville%20analysis/)
-- **Description:** This project provides a template for implementing a RandomForestClassfier manually in Python without using built in functions for model training. It covers Data Preprocessing, Exploratory Data Analysis (EDA), Model Training, and Evaluation.
+- **Description:** This project provides a  template for analyzing scoville chili scale using machine learning techniques. It includes data preprocessing, exploratory data analysis (EDA), feature selection, data pipeline with kernel anddata pipeline with regularization.
 - **Files Included:**
   - `scoville_template.ipynb`: Interactive Jupyter Notebook for exploring the random forest implementation.
   - `scoville_template.py`: Python script for running the random forest model in a standalone environment.
